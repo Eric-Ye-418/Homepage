@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "**👋 Welcome to My Homepage**"
-subtitle = "I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my favorite people and unforgettable places in this photo, which shot on Nov 13, 2020."
+subtitle = "I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my **favorite people** and **unforgettable places** in this photo, which shot on Nov 13, 2020."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ subtitle = "I have experienced five years of good time at the foot of Yuelu Moun
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "40px", "0"]
+  padding = ["200px", "0", "200px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -86,5 +86,3 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
 -->
-
-<div align='center' ><font size='10'>I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my favorite people and unforgettable places in this photo, which shot on Nov 13, 2020.</font></div>
