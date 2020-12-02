@@ -40,7 +40,7 @@ subtitle = "I have experienced five years of good time at the foot of Yuelu Moun
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "0", "200px", "0"]
+  padding = ["240px", "0", "240px", "0"]
 
 [advanced]
  # Custom CSS. 
