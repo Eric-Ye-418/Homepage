@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jcye@hnu.edu.cn'   #'/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: bold
+  icon_pack: fas
+  link: https://space.bilibili.com/474827198
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
