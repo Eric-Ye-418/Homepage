@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "<font size='80'>👋 Welcome to My Homepage</font>"
-subtitle = ""
+title = "**👋 Welcome to My Homepage**"
+subtitle = "I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my favorite people and unforgettable places in this photo, which shot on Nov 13, 2020."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -87,4 +87,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
 -->
 
-<div align='center' ><font size='30'>I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my favorite people and unforgettable places in this photo, which shot on Nov 13, 2020.</font></div>
+<div align='center' ><font size='10'>I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my favorite people and unforgettable places in this photo, which shot on Nov 13, 2020.</font></div>
