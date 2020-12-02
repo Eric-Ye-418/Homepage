@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Topological Physics
-- Quantum Technology (QC & QS)
+- Quantum Technology \\ (QC & QS)
 - Condensed Matter Theory
 
 education:
