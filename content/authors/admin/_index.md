@@ -18,7 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Topological Physics
-- Quantum Technology \\ (QC & QS)
+- Quantum Technology  
+(QC & QS)
 - Condensed Matter Theory
 
 education:
@@ -42,7 +43,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: far
   link: 'mailto:jcye@hnu.edu.cn'   #'/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: bold
   icon_pack: fas
