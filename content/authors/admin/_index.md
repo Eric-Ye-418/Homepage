@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Research Assistant at the Department of Applied Physics, Hunan University, P.R.China. My research interests include developing robust hardwares and novel gate schemes for quantum computing. After obtaining my B.Sc. degree from [Hunan University](https://www.hnu.edu.cn/) in Jun 2020, I worked as RA under the supervision of [Prof. Fuxiang Li](https://liphysicshnu.wordpress.com/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm looking for a PhD position from Spring or Fall 2021, and also pursuing a chance to develop some awesome technologies for future.
