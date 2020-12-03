@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Research Assistant at the Department of Applied Physics, Hunan University, P.R.China. My research interests include developing robust hardwares and novel gate schemes for quantum computing. After obtaining my B.Sc. degree from [Hunan University](https://www.hnu.edu.cn/) in Jun 2020, I worked as RA under the supervision of [Prof. Fuxiang Li](https://liphysicshnu.wordpress.com/).
+I am a Research Assistant at the Department of Applied Physics, Hunan University, P. R. China. My research interests include developing robust hardwares and novel gate schemes for quantum computing. After obtaining my B.Sc. degree from [Hunan University](https://www.hnu.edu.cn/) in Jun 2020, I worked as a RA under the supervision of [Prof. Fuxiang Li](https://liphysicshnu.wordpress.com/).
 
-I'm looking for a PhD position from Spring or Fall 2021, and also pursuing a chance to develop some awesome technologies for future.
+I am looking for a PhD position from Spring or Fall 2021, and also pursuing a chance to develop some awesome technologies for future.
