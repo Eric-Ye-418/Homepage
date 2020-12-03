@@ -33,7 +33,7 @@ education:
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
   - course: B.Sc. in Applied Physics
-    institution: Hunan University, P.R.China
+    institution: Hunan University, P. R. China
     year: 2020
 
 # Social/Academic Networking
