@@ -7,10 +7,10 @@ authors:
 - Yi Ding
 tags:
 - Academic
-- 开源
+- Test
 categories:
 - Demo
-- 教程
+- Test
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
