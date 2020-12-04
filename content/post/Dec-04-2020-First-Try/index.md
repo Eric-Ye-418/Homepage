@@ -1,6 +1,6 @@
 ---
 title: 'Academic: hurt'
-subtitle: ''
+subtitle: 'a'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
@@ -12,7 +12,7 @@ categories:
 - Demo
 - 教程
 date: "2016-04-20T00:00:00Z"
-lastmod: ""
+lastmod: "2016-04-22T00:00:00Z"
 featured: false
 draft: false
 
