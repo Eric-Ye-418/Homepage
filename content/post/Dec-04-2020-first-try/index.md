@@ -1,7 +1,7 @@
 ---
 title: 'Test page'
 subtitle: 'It is just a test, no content'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: It is just a test, no content.
 authors:
 - admin
 - 吳恩達
