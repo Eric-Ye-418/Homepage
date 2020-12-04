@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Honor & Awards"
-subtitle = "As time flows, they will be added or deleted dynamically. (Listed in time order) "
+subtitle = "As time flows, they will be added or deleted dynamically. </br>(Listed in time order) "
 
 [design.background]
   # Apply a background color, gradient, or image.
