@@ -1,6 +1,6 @@
 ---
 title: 'Test page'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+subtitle: 'It is just a test, no content'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
