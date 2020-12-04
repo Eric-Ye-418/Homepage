@@ -1,18 +1,18 @@
 ---
-title: 'Test page'
-subtitle: 'It's just a test, no content'
-summary: It just a test, no content.
+title: 'Academic: the website builder for Hugo'
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
-- Yi Ding
+- 吳恩達
 tags:
 - Academic
-- Test
+- 开源
 categories:
 - Demo
-- Test
-date: "2020-12-04T00:00:00Z"
-lastmod: "2020-12-04T00:00:00Z"
+- 教程
+date: "2016-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: false
 
