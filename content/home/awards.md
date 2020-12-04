@@ -67,8 +67,8 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Department of Higher Education, MOE of P. R. China"
-  organization_url = "http://gjcxcy.bjtu.edu.cn/Index.aspx"
-  title = "2018 National Student Innovation and Entrepreneurship Training Program (Program No.201810532235)"
+  organization_url = ""
+  title = "2018 National Student Innovation and Entrepreneurship Training Program ([Program No.201810532235](http://gjcxcy.bjtu.edu.cn/Index.aspx))"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
