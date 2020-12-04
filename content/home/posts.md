@@ -30,6 +30,11 @@ subtitle = "Not Yet"
     publication_type = ""
     author = ""
     exclude_featured = false
+    
+  [content.archive]
+    enable = true
+    text = "See all blog posts"
+    link = "post/"
   
 [design]
   # Toggle between the various page layout types.
