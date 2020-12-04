@@ -15,10 +15,10 @@ subtitle = "Not Yet"
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 4
+  count = 14
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
