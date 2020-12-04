@@ -66,6 +66,16 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
+  organization = "Consortium for Mathematics and Its Applications (COMAP)"
+  organization_url = ""
+  title = "2019 MCM/ICM Contest Honorable Mention (Top 22.75%)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Department of Higher Education, MOE of P. R. China"
   organization_url = ""
   title = "2018 National Student Innovation and Entrepreneurship Training Program ([Program No.201810532235](http://gjcxcy.bjtu.edu.cn/Index.aspx))"
