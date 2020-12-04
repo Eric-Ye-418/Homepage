@@ -11,8 +11,8 @@ tags:
 categories:
 - Demo
 - Test
-date: "2020-12-04T21:48:00Z"
-lastmod: "020-12-04T21:50:00Z"
+date: "2020-12-04T00:00:00Z"
+lastmod: "2020-12-04T00:00:00Z"
 featured: false
 draft: false
 
