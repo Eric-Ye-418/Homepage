@@ -4,7 +4,7 @@ subtitle: 'It is just a test, no content'
 summary: It is just a test, no content.
 authors:
 - admin
-- 吳恩達
+- Yi Ding
 tags:
 - Academic
 - 开源
