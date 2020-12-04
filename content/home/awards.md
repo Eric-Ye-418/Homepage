@@ -33,7 +33,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["140px", "0", "40px", "0"]
+  padding = ["100px", "0", "40px", "0"]
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -46,33 +46,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Ministry of Education, P. R. China"
+  organization_url = ""
+  title = "2017-2018 China National Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-11-20"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Ministry of Education, P. R. China"
+  organization_url = ""
+  title = "2018-2019 China National Scholarship"
   url = ""
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2019-12-12"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Department of Higher Education, MOE of P. R. China"
+  organization_url = "http://gjcxcy.bjtu.edu.cn/Index.aspx"
+  title = "2018 National Student Innovation and Entrepreneurship Training Program (Program No.201810532235)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = "2020-04-01"
   description = ""
 
 +++
