@@ -14,6 +14,17 @@ address:
   region: Hunan
   postcode: '411000'
   country: P. R. China
+  
+event: Coference Report
+event_url: 
+
+location: Online
+address:
+  street: 89 Fuxing East Road
+  city: Xiangtan
+  region: Hunan
+  postcode: '411000'
+  country: P. R. China
 
 summary: Emergent topology under slow nonadiabatic quantum dynamics
 abstract: "Characterization of equilibrium topological quantum phases by nonequilibrium quench dynamics provides a novel and efficient scheme in detecting topological invariants defined in equilibrium. Nevertheless, most of the previous studies have focused on the ideal sudden quench regime. Here we provide a generic nonadiabatic protocol of slowly quenching the system Hamiltonian and investigate the nonadiabatic dynamical characterization scheme of the topological phase. The slow quench protocol is realized by introducing a Landau-Zener problem with an inversely proportional time dependence, and it can describe, in a unified way, the crossover from the sudden quench regime (deep nonadiabatic limit) to the adiabatic regime. By analytically obtaining the final state vector after nonadiabatic evolution, we can calculate the time-averaged spin polarization and the corresponding topological spin texture. We find that the topological invariants of the postquench Hamiltonian are characterized directly by the values of spin texture on the band inversion surface. Compared to the sudden quench regime, where one has to take an additional step to calculate the gradients of spin polarization, this nonadiabatic characterization provides a minimal scheme for detecting the topological invariants. By studying the slow quench dynamics of three-dimensional topological phases, we show that our findings are not restricted to one- and two-dimensional topological phases under the inversely proportional time-dependent quench protocol, but are also valid for higher-dimensional systems or different quench protocols."
