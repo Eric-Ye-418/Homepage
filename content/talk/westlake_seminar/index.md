@@ -56,4 +56,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+[Dr. Jian Li](https://www.westlake.edu.cn/info/1089/3857.htm)'s Group is very vibrant! They asked me a lot of questions. I learned a lot from them. Thanks for the invitation of Dr. Li!
