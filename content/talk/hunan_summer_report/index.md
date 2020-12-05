@@ -38,9 +38,9 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "files/cv.pdf"
-url_slides: ""
-url_video: ""
+url_pdf: ""
+url_slides: "files/cv.pdf"
+url_video: "https://www.bilibili.com/video/BV1X54y1q7FW"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
