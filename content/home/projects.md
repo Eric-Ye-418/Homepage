@@ -67,7 +67,7 @@ subtitle = "Not yet. Maybe I can record here some challenges I will face during 
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
-   Text color (true=light or false=dark).
+  # Text color (true=light or false=dark).
    text_color_light = true  
   
 [advanced]
