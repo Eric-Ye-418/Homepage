@@ -28,8 +28,11 @@ abstract: Characterization of equilibrium topological quantum phases by nonequil
 summary: My graduation project, “Emergent topology under slow nonadiabatic quantum dynamics” published on *Physical Review A* as “**Editors’ Suggestion**” in Oct 2020. 
 
 tags:
-- Source Themes
-featured: false
+- LZ Transition
+- Togological Phases
+- Quantum Quench
+- Ultra-cold atom
+featured: true
 
 # links:
 # - name: ""
@@ -46,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
