@@ -72,7 +72,7 @@ subtitle = "Not yet. Maybe I can record here some challenges I will face during 
    
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "40px", "0"]
+  padding = ["100px", "0", "100px", "0"]
   
 [advanced]
  # Custom CSS. 
