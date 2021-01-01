@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "**👋 Welcome to My Homepage**"
-subtitle = "I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my **favorite person** and **unforgettable places** in this photo, which shot on a warm afternoon.</br> </br> </br>(Last update: Dec 05 2020)"
+subtitle = "I have experienced five years of good time at the foot of Yuelu Mountain. </br>There are my **favorite person** and **unforgettable places** in this photo, which shot on a warm afternoon.</br> </br> </br>(Last update: Dec 30 2020)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
