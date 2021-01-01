@@ -14,7 +14,7 @@ organizations:
   url: "http://spe.hnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include developing novel gate scheme and robust hardware for quantum computing.
+bio: My research interests include developing robust hardwares and novel gate schemes for quantum computing.
 
 interests:
 - Topological Physics
