@@ -10,7 +10,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: The Chinese University of Hong Kong
+- name: The Chinese University of Hong Kong (CUHK)
   url: "http://www.sci.cuhk.edu.hk/zh-tw/"
 
 # Short bio (displayed in user profile at end of posts)
