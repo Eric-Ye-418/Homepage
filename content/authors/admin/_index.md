@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD yr1 student at the Department of Physics, The Chinese University of Hong Kong, Hong Kong SAR, P.R. China. My research interests include developing some robust hardwares for quantum sensing. and I'm also pursuing a chance to develop some awesome quantum technologies for future.
+I am a yr1 PhD student at the Department of Physics, The Chinese University of Hong Kong (CUHK). My research interests include developing some robust hardwares for quantum sensing. and I'm also pursuing a chance to develop some awesome quantum technologies for future.
