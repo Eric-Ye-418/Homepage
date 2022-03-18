@@ -32,7 +32,7 @@ education:
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
-  - course: Ph.D student. in Quantum Physics
+  - course: Ph.D student. in Physics
     institution: The Chinese University of Hong Kong, Hong Kong SAR, P.R. China
     year: 2021-Now
   - course: B.Sc. in Applied Physics
@@ -75,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Assistant at the Department of Applied Physics, Hunan University, P. R. China. My research interests include developing robust hardwares and novel gate schemes for quantum computing. After obtaining my B.Sc. degree from [Hunan University](https://www.hnu.edu.cn/) in Jun 2020, I worked as a RA under the supervision of [Prof. Fuxiang Li](https://liphysicshnu.wordpress.com/).
-
-I am looking for a PhD position from Fall 2021, and also pursuing a chance to develop some awesome technologies for future.
+I am a PhD yr1 student at the Department of Physics, The Chinese University of Hong Kong, Hong Kong SAR, P.R. China. My research interests include developing some robust hardwares for quantum sensing. and I'm also pursuing a chance to develop some awesome quantum technologies for future.
