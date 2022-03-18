@@ -46,15 +46,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Ministry of Education, P. R. China"
+  organization = "Research Grants Council, Hong Kong SAR, P. R. China"
   organization_url = ""
-  title = "2017-2018 China National Scholarship"
-  url = ""
+  title = "Hong Kong PhD Fellowship (HKPFS)"
+  url = "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs"
   certificate_url = ""
-  date_start = "2018-11-20"
-  date_end = ""
+  date_start = "2021-08-01"
+  date_end = "2025-08-01"
   description = ""
-
+  
 [[item]]
   organization = "Ministry of Education, P. R. China"
   organization_url = ""
@@ -72,6 +72,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Ministry of Education, P. R. China"
+  organization_url = ""
+  title = "2017-2018 China National Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-11-20"
   date_end = ""
   description = ""
   
