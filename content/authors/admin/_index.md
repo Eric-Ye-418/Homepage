@@ -6,15 +6,15 @@ title: Junchen(Eric) YE
 superuser: true
 
 # Role/position
-role: Research Assistant (in Gap Year)
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Hunan University
-  url: "http://spe.hnu.edu.cn/"
+- name: The Chinese University of Hong Kong
+  url: "http://www.sci.cuhk.edu.hk/zh-tw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include developing robust hardwares and novel gate schemes for quantum computing.
+bio: My research interests include developing robust hardwares for quantum sensing.
 
 interests:
 - Topological Physics
@@ -32,9 +32,12 @@ education:
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
+  - course: Ph.D student. in Quantum Physics
+    institution: The Chinese University of Hong Kong, Hong Kong SAR, P.R. China
+    year: 2021-Now
   - course: B.Sc. in Applied Physics
     institution: Hunan University, P. R. China
-    year: 2020
+    year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: far
-  link: 'mailto:jcye@hnu.edu.cn'   #'/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jcye@link.cuhk.edu.hk'   #'/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: bold
   icon_pack: fas
   link: https://space.bilibili.com/474827198
@@ -57,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
