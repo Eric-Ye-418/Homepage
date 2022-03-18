@@ -60,6 +60,6 @@ date_format = "Jan 2006"
   location = "Hong Kong SAR, P. R. China"
   date_start = "2021-08-01"
   date_end = "2023-08-01"
-  description = """I'm building an experimental setup for widefield nanodiamond quantum sensing, which will provide a new approach to explore live cells."""
+  description = """I'm building an experimental setup for widefield nanodiamond quantum sensing, which will provide a new approach to explore live cells. (In Progressing...)"""
 
 +++
