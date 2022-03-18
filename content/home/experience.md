@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Quantum Mechanical Treatment of Single-slit Interference"
-  company = "Dr. Quan-Hui Liu (Supervisior)"
+  company = "Prof. Quan-Hui LIU (Supervisior)"
   company_url = ""
   location = "Changsha, P. R. China"
   date_start = "2018-12-01"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Using DFT to study topological surface states"
-  company = "Dr. Yexin Feng (Supervisior)"
+  company = "Prof. Yexin FENG (Supervisior)"
   company_url = ""
   location = "Changsha, P. R. China"
   date_start = "2019-10-01"
@@ -46,11 +46,20 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Dynamical Classiﬁcation of Topological quantum Phases"
-  company = "Dr. Fuxiang Li (Supervisior)"
+  company = "Prof. Fuxiang LI (Supervisior)"
   company_url = ""
   location = "Changsha, P. R. China"
   date_start = "2019-12-01"
   date_end = "2020-07-01"
   description = """Dynamical classiﬁcation of topological quantum phases by quench dynamics provides a novel and eﬃcient scheme in characterizing topological invariants in equilibrium. Diﬀerent from usual sudden quench, we study the non-adiabatic dynamical classiﬁcation scheme by a generic non-adiabatic protocol of slowly quenching the system Hamiltonian, which is realized by introducing a Coulomb-like Landau Zener problem. the new scheme can provides a more eﬃcient dynamical characterization approach for ultracold-atom experiments."""
+  
+  [[experience]]
+  title = "Experimental Quantum Sensing"
+  company = "Prof. Ren-Bao LIU (Supervisior) Prof. Quan LI (Co-Supervisior)"
+  company_url = ""
+  location = "Hong Kong SAR, P. R. China"
+  date_start = "2021-08-01"
+  date_end = "Now"
+  description = """I'm building an experimental setup for widefield nanodiamond quantum sensing, which will provide a new approach to explore live cells."""
 
 +++
